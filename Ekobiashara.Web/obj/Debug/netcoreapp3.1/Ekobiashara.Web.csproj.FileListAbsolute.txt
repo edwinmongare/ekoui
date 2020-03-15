@@ -1,0 +1,869 @@
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.exe
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.deps.json
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.json
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.dev.json
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.Manifest.cache
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.xml
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cache
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfoInputs.cache
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfo.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.input.cache
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.output.cache
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorCoreGenerate.cache
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cache
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cs
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csproj.CopyComplete
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csprojAssemblyReference.cache
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v-coomwe\source\repos\Ekobiashara\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.exe
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.deps.json
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.json
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.dev.json
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csprojAssemblyReference.cache
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.Manifest.cache
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.xml
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cache
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfoInputs.cache
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfo.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.input.cache
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.output.cache
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorCoreGenerate.cache
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cache
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csproj.CopyComplete
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\BusinessInformation.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DashBoard.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessListLayout.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Accounting.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Expenses.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\FeedBack.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\InternalTransactions.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Inventories.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductAndServices.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Purchases.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reports.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sales.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suppliers.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surveliance.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\eko new\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Taxes.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.exe
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.deps.json
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.json
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.dev.json
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csprojAssemblyReference.cache
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cache
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfoInputs.cache
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfo.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.input.cache
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.output.cache
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorCoreGenerate.cache
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Accounting.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\BusinessInformation.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DashBoard.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Expenses.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\FeedBack.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\InternalTransactions.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Inventories.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductAndServices.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Purchases.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reports.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sales.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suppliers.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surveliance.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Taxes.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessListLayout.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cache
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cs
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csproj.CopyComplete
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.Manifest.cache
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.xml
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\LLANOH\Desktop\eko new\eko new - Copy\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.exe
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.deps.json
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.json
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.dev.json
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csprojAssemblyReference.cache
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.Manifest.cache
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.xml
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cache
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfoInputs.cache
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfo.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.input.cache
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.output.cache
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorCoreGenerate.cache
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Accounting.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\BusinessInformation.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DashBoard.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Expenses.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\FeedBack.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\InternalTransactions.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Inventories.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductAndServices.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Purchases.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reports.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sales.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suppliers.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surveliance.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Taxes.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessListLayout.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cache
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cs
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csproj.CopyComplete
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\edwin\OneDrive\Desktop\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.exe
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.deps.json
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.json
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.dev.json
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csprojAssemblyReference.cache
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cache
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfoInputs.cache
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfo.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.input.cache
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.output.cache
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorCoreGenerate.cache
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Accounting.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\BusinessInformation.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DashBoard.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Expenses.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\FeedBack.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\InternalTransactions.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Inventories.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductAndServices.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Purchases.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reports.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sales.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suppliers.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surveliance.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Taxes.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessListLayout.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cache
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cs
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csproj.CopyComplete
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.Manifest.cache
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.xml
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\LLANOH\Desktop\ekoUi\ekoV2\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.exe
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.deps.json
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.json
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.dev.json
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csprojAssemblyReference.cache
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cache
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfoInputs.cache
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfo.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.input.cache
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.output.cache
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorCoreGenerate.cache
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Accounting.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\BusinessInformation.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DashBoard.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Expenses.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\FeedBack.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\InternalTransactions.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Inventories.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductAndServices.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Purchases.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reports.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sales.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suppliers.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surveliance.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Taxes.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessListLayout.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cache
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cs
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csproj.CopyComplete
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.Manifest.cache
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.xml
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\LLANOH\source\repos\EKO BIASHARA\RetailUI\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.exe
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.deps.json
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.json
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.runtimeconfig.dev.json
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csprojAssemblyReference.cache
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.Manifest.cache
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\staticwebassets\Ekobiashara.Web.StaticWebAssets.xml
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cache
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorAssemblyInfo.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfoInputs.cache
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.AssemblyInfo.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.input.cache
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.TagHelpers.output.cache
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorCoreGenerate.cache
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Accounting.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\BusinessInformation.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DashBoard.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Expenses.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\FeedBack.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\InternalTransactions.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Inventories.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductAndServices.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Purchases.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reports.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sales.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suppliers.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surveliance.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Taxes.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessListLayout.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cache
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.RazorTargetAssemblyInfo.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.Views.pdb
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.csproj.CopyComplete
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.dll
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Ekobiashara.Web.pdb
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessInformationPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessContactsPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessBranchesPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessPaymentAccountsPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BusinessTaxesAndLeviesPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PointOfSalePartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_QuotationsPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ListOfSalesPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_QuotationsListPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomersPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DirectExpensesPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_OverheadsPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SuppliersPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CategoriesPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductsPartial.cshtml.g.cs
+C:\Users\edwin\OneDrive\Desktop\retailEko\Ekobiashara.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ServicesPartial.cshtml.g.cs
